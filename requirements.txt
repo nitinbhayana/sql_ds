@@ -1,6 +1,6 @@
 vanna
 streamlit
-
+sqlite
 pandas
 requests
 re
