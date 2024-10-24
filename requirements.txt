@@ -5,3 +5,4 @@ pandas
 requests
 chromadb
 openpyxl
+pysqlite3 0.5.4
