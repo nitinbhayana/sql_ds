@@ -4,3 +4,4 @@ sqlite3
 pandas
 requests
 re
+openpyxl
