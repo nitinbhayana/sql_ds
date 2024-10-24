@@ -1,4 +1,4 @@
-vanna[chromadb,openai]
+vanna
 streamlit
 openai
 pandas
