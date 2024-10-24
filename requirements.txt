@@ -1,6 +1,6 @@
 vanna
 streamlit
-
+openai
 pandas
 requests
 
