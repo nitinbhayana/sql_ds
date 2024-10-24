@@ -3,5 +3,5 @@ streamlit
 openai
 pandas
 requests
-pysqlite3
+
 openpyxl
