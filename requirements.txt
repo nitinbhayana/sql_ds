@@ -1,0 +1,6 @@
+vanna[chromadb,openai]
+streamlit
+sqlite3
+pandas
+requests
+re
