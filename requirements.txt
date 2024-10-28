@@ -1,4 +1,4 @@
- "vanna[chromadb,openai]"
+"vanna[chromadb,openai]"
 streamlit
 openai
 pandas
