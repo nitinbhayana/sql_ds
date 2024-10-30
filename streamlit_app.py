@@ -8,7 +8,7 @@ from vanna.openai import OpenAI_Chat
 from vanna.chromadb import ChromaDB_VectorStore
 
 
-api_key = '7952e35b067b484f924800606f19fd65'# Your API key from https://vanna.ai/account/profile
+api_key = ''# Your API key from https://vanna.ai/account/profile
 
 class MyVanna(ChromaDB_VectorStore, OpenAI_Chat):
     def __init__(self, config=None):
@@ -16,7 +16,7 @@ class MyVanna(ChromaDB_VectorStore, OpenAI_Chat):
         OpenAI_Chat.__init__(self, config=config)
 
 
-vn = MyVanna(config={'api_key': 'sk-rGRJ1CXmbhhlBxC4eJOvVRjlRNVREMs2nucvq9k2f5T3BlbkFJdGTc4iMNd13EIdCG3XfestscKdIfZZxSenlA5zlacA', 'model': 'gpt-4o'})
+vn = MyVanna(config={'api_key': '', 'model': 'gpt-4o'})
 
 
 @st.cache_data
